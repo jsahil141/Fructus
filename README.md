@@ -3,5 +3,5 @@
  Developed and coded by Trinity:
  Chris Chauhan,
  Dhruv Chauhan,
- Shail Javiya,
+ Sahilkumar Javiya,
  Fatema Khanrahimwala.
